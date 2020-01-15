@@ -35,5 +35,6 @@ repositories {
 dependencies {
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'
+    implementation 'com.google.android.gms:play-services-location:16.0.0'
 }
   
